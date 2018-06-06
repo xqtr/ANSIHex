@@ -1,0 +1,19 @@
+      __  _          __ _          _  __
+______\ \_\\_________\///_________//_/ /______
+\___\                                    /___/
+ | .__                   __                 |
+ | |     ___  __________/  |________        |
+ |       \  \/  / ____/\   __\_  __ \       |
+ ;        >    < <_|  | |  |  |  | \/       ;
+ :       /__/\_ \__   | |__|  |__|          :
+ .             \/  |__|                     .
+ .                                          .
+ ` --- --  -   . -  --  --  ---  - . - -- --´
+            ANSI Hex Dump Util.
+ . --- --  - . -  --- --_  ---  - . - -- -- ´
+ Reverse engineer any bin file with this 
+ nifty utility. Colorize record types and 
+ view the data in a more helpful and easy to
+ guess way, from the terminal. 
+ . --- --  - . -  --- ---  ---  - . - -- -- ´
+
